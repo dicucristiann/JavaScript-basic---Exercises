@@ -1,4 +1,4 @@
-## JavaScript Basic Exercises
+<h1 align="center"> JavaScript Basic Exercises </h1>
 
 <h2>Exercise 1<h2>
 
