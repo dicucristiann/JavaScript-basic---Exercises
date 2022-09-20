@@ -1,4 +1,4 @@
-# JavaScript Basic Exercises
+## JavaScript Basic Exercises
 
 <h2>Exercise 1<h2>
 
